@@ -1,0 +1,9 @@
+{
+    "name": "my_vue-app",
+    "version": "0.1.0",
+    "dependencies": {
+        "vue": "3.2.40",
+        "core-js": "3.34.0"
+        
+    }
+}
